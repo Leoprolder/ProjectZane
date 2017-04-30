@@ -1,0 +1,31 @@
+﻿Сборка начата 29.04.2017 23:42:09.
+     1>Проект "C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\ProjectZane v0.3\ProjectZane v0.3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\..\..\include\ltbl\lighting\LightDirectionEmission.cpp ..\..\..\..\..\..\..\include\ltbl\lighting\LightPointEmission.cpp ..\..\..\..\..\..\..\include\ltbl\lighting\LightShape.cpp ..\..\..\..\..\..\..\include\ltbl\lighting\LightSystem.cpp ..\..\..\..\..\..\..\include\ltbl\Math.cpp ..\..\..\..\..\..\..\include\ltbl\quadtree\DynamicQuadtree.cpp ..\..\..\..\..\..\..\include\ltbl\quadtree\Quadtree.cpp ..\..\..\..\..\..\..\include\ltbl\quadtree\QuadtreeNode.cpp ..\..\..\..\..\..\..\include\ltbl\quadtree\QuadtreeOccupant.cpp ..\..\..\..\..\..\..\include\ltbl\quadtree\StaticQuadtree.cpp main.cpp
+         LightDirectionEmission.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\lighting\LightDirectionEmission.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/lighting/LightDirectionEmission.h: No such file or directory
+         LightPointEmission.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\lighting\LightPointEmission.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/lighting/LightPointEmission.h: No such file or directory
+         LightShape.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\lighting\LightShape.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/lighting/LightShape.h: No such file or directory
+         LightSystem.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\lighting\LightSystem.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/lighting/LightSystem.h: No such file or directory
+         Math.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\Math.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/Math.h: No such file or directory
+         DynamicQuadtree.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\quadtree\DynamicQuadtree.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/quadtree/DynamicQuadtree.h: No such file or directory
+         Quadtree.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\quadtree\Quadtree.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/quadtree/Quadtree.h: No such file or directory
+         QuadtreeNode.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\quadtree\QuadtreeNode.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/quadtree/QuadtreeNode.h: No such file or directory
+         QuadtreeOccupant.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\quadtree\QuadtreeOccupant.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/quadtree/QuadtreeOccupant.h: No such file or directory
+         StaticQuadtree.cpp
+     1>..\..\..\..\..\..\..\include\ltbl\quadtree\StaticQuadtree.cpp(1): fatal error C1083: Не удается открыть файл включение: ltbl/quadtree/StaticQuadtree.h: No such file or directory
+         main.cpp
+     1>main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+     1>Сборка проекта "C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\ProjectZane v0.3\ProjectZane v0.3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.29

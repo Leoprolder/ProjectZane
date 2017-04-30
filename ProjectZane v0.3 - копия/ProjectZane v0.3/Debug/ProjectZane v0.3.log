@@ -1,0 +1,54 @@
+﻿Сборка начата 30.04.2017 21:28:32.
+     1>Проект "C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\ProjectZane v0.3\ProjectZane v0.3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\include /I"C:\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(8): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(60): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(80): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(108): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(109): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(122): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(136): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(153): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(158): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(163): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(168): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(199): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(202): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(207): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(212): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(217): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(287): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(288): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(301): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(315): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(366): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(430): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(456): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(462): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(468): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(474): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(482): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(486): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(541): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(548): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\tortopus\documents\visual studio 2013\projects\projectzane v0.3 - копия\projectzane v0.3\main.cpp(554): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\Debug\ProjectZane v0.3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\Debug\ProjectZane v0.3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\Debug\ProjectZane v0.3.lib" /MACHINE:X86 Debug\LightDirectionEmission.obj
+         Debug\LightPointEmission.obj
+         Debug\LightShape.obj
+         Debug\LightSystem.obj
+         Debug\Math.obj
+         Debug\DynamicQuadtree.obj
+         Debug\Quadtree.obj
+         Debug\QuadtreeNode.obj
+         Debug\QuadtreeOccupant.obj
+         Debug\StaticQuadtree.obj
+         Debug\main.obj
+         ProjectZane v0.3.vcxproj -> C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\Debug\ProjectZane v0.3.exe
+     1>Сборка проекта "C:\Users\Tortopus\Documents\Visual Studio 2013\Projects\ProjectZane v0.3 - копия\ProjectZane v0.3\ProjectZane v0.3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.33
